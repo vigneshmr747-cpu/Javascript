@@ -1,0 +1,51 @@
+🧠 DAY 1 – NOTES (Clear Explanation)
+📌 1. Variables (Storing Data)
+
+A variable is like a box where you store information.
+
+👉 Example:
+
+Name, age, city — all can be stored in variables
+Types:
+let → value can change
+const → value cannot change
+var → old way (not recommended)
+
+👉 Simple understanding:
+
+let = change later ✅
+const = fixed 🔒
+🖨️ 2. Printing (Output)
+
+To see output in JavaScript, we use:
+
+👉 console.log()
+
+It prints data in the console (terminal or browser)
+
+👉 Example:
+
+Print text
+Print variable value
+📦 3. Datatypes (Type of Data)
+
+Datatypes tell what kind of value we are storing
+
+✅ Primitive Datatypes
+String → text
+👉 "Hello"
+Number → numbers
+👉 10, 25
+Boolean → true / false
+👉 true
+Null → empty value (intentionally nothing)
+Undefined → variable declared but no value given
+✅ Non-Primitive Datatypes
+Array → list of values
+👉 [1, 2, 3]
+Object → key + value pair
+👉 {name: "Abi", age: 22}
+🧠 Final Understanding
+Variables → store data
+console.log() → show output
+Datatypes → define what type of data
